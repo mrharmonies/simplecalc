@@ -12,7 +12,7 @@ float calc(expr a){
 		case '-':return a.n1-a.n2; break;
 		case '*':return a.n1*a.n2; break;
 		case '/':return a.n1/a.n2; break;
-		default: printf("	wrong operator. i only support +*/-\n"); return 0; break;
+		default: printf("	wrong operator. simplecalc only support addition, multiplication, division and substraction\n"); return 0; break;
 	}
 }
 
