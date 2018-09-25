@@ -3,7 +3,9 @@ A very simple REPL calculator made with only 29 line of ANSI C code for learning
 ```
 (number) (operator) (number)
 ```
-and then press return. simplecalc only supporting addition, multiplication, division and substraction.
+and then press return. simplecalc only supporting addition, multiplication, division and substraction. 
+
+**Accuracy of simplecalc is never tested and must never be used in serious work/production.**
 
 # example
 ```
