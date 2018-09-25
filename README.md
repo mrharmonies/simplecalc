@@ -8,7 +8,7 @@ and then press return. simplecalc only supporting addition, multiplication, divi
 # example
 ```
 > 3.142+11
-      =14.123000
+      =14.142000
 > 51/11
       =4.636364
 > 42*512
@@ -18,4 +18,4 @@ and then press return. simplecalc only supporting addition, multiplication, divi
 ```
 
 # compilation
-Just compile the main source file "calc.c" with your favorite C compiler, e.g "gcc -o calc calc.c"
+Just compile the main source file ```calc.c``` with your favorite C compiler, e.g ```gcc -o calc calc.c```
